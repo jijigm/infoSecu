@@ -95,5 +95,6 @@ void genKeyE(int* E, int* D, int* N) {
 }
 
 // 암호화 함수
+
 // 복호화 함수
 
